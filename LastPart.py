@@ -3,4 +3,4 @@ f = input()
 
 i = Str.find(f)
 
-print(Str[i:])
+print(Str[i+1:])
