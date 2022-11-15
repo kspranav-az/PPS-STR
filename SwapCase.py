@@ -1,3 +1,4 @@
 Str = input()
 
-print(Str.swapcase())
+print(Str.upper())
+print(Str.lower())
